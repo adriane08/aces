@@ -70,7 +70,8 @@ section {
 }
 
 .display-4 {
-    text-shadow: -4px 4px var(--laranja-claro);
+    text-shadow: -3px 3px var(--laranja-claro);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 
